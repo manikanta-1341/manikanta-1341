@@ -17,3 +17,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manikanta-1341&show_icons=true&locale=en&layout=compact" alt="manikanta-1341" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manikanta-1341&show_icons=true&locale=en" alt="manikanta-1341" /></p>
+
+## snake eating my contribution graph
+![snake gif](https://github.com/manikanta-1341/manikanta-1341/blob/output/github-contribution-grid-snake.gif)
